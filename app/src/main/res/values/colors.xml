@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#0b6156</color>
+    <color name="teal_700">#095049</color>
+    <color name="black">#FF000000</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="statusBackground">#009688</color>
+    <color name="red">#9f0B0B</color>
+    <color name="Chat_background">#8BC34A</color>
+    <color name="fbColor">#3c5973</color>
+    <color name="white">#fff</color>
+    <color name="lightGreen">#e5ffcc</color>
+
+
+
+</resources>
